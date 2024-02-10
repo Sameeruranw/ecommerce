@@ -1,3 +1,8 @@
+I have done this project by using react js,also used an toast and many more.
+
+See live demo
+https://sameercommerce.netlify.app
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
