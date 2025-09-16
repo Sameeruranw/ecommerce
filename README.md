@@ -1,7 +1,7 @@
 I have done this project by using react js,also used an toast and many more.
 
 See live demo
-https://sameercommerce.netlify.app
+https://sameeruranwecommerce.netlify.app
 
 # React + Vite
 
